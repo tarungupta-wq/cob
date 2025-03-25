@@ -1,0 +1,14 @@
+print("Enter A Number")
+x=input()
+if ((type(x)) is int):
+    print("False")
+else:
+    print("True")
+
+
+
+
+
+
+
+
